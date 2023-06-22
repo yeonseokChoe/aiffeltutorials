@@ -1,5 +1,2 @@
-# first-repository
-## git config
-### additional content
-#### config test
-add line from other directory
+# Aiffel Rearch On-line 5th Gen Course Tutorials
+## This repository is an a archiving the scripts I written during the Aiffel Course
