@@ -2,7 +2,7 @@
 
 ### 사용 데이터  
 ---
- - Chest X-Ray [kaggle_link](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+ - Chest X-Ray [[kaggle_link]](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
    
 ### 조건
 ---
