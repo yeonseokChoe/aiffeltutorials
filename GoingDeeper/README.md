@@ -1,4 +1,4 @@
-## GoingDeeper
+## GoingDeeper : `CV`
 
 Deeper and harder exploration about `Computer Vision`
 
